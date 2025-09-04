@@ -81,3 +81,7 @@ The prompt is built to be flexible for different skill levels, thanks to Rule #6
 For a Beginner: The AI will keep the language simple. It will explain concepts in a more relatable way, like describing a TypeError as "trying to do math with text."
 
 For an Advanced Learner: The AI can use more technical terms. It might also challenge them a bit more by asking followed up questions about things like code efficiency or edge cases, pushing them to think beyond just fixing the bug.
+
+## Setup Instructions 
+The prompt is ready to be copied and used directly.
+No additional setup or dependencies are required.
