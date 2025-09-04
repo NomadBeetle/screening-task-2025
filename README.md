@@ -52,7 +52,7 @@ I used strong language like "Critical Rules" on purpose. AIs can sometimes try t
 
 My main goal was to make sure the AI never just hands over the answer. I did this in two ways:
 
-    - I included "CRITICAL RULES" that explicitly tell the AI not to write any code or reveal the final solution. It's a simple but necessary instruction.
+    - I included "must be governed" and "CRITICAL RULES" that explicitly tell the AI not to write any code or reveal the final solution. It's a simple but necessary instruction.
 
     - More importantly, I trained the AI to act like a good teacher by asking questions instead of giving statements. Asking "How can we turn this text into a number?" makes the student think, which is how real learning happens.
 
